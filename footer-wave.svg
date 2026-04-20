@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2dbd82"/>
+      <stop offset="50%" stop-color="#141512"/>
+      <stop offset="100%" stop-color="#0c0d0b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wavy shape reversed (wave on top, solid bottom) -->
+  <path d="M 0 40 Q 160 10 320 40 T 640 40 T 960 40 T 1280 40 L 1280 120 L 0 120 Z" fill="url(#footerBg)"/>
+
+  <!-- Thin accent line following wave -->
+  <path d="M 0 40 Q 160 10 320 40 T 640 40 T 960 40 T 1280 40" fill="none" stroke="#2dbd82" stroke-width="1.5" opacity="0.6"/>
+</svg>
