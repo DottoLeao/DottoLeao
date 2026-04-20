@@ -208,14 +208,17 @@ I build products that solve real problems, not pretty decks. If it can be automa
 
 <br/>
 
+<a href="https://linkedin.com/in/lorenzo-le%C3%A3o-dotto">
+  <img src="https://img.shields.io/badge/LinkedIn-Lorenzo_Le%C3%A3o_Dotto-2dbd82?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c0d0b" alt="LinkedIn"/>
+</a>
 <a href="https://lorenzodotto.com.br">
   <img src="https://img.shields.io/badge/Portfolio-lorenzodotto.com.br-2dbd82?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0c0d0b" alt="Portfolio"/>
 </a>
 <a href="mailto:dottoleao@gmail.com">
   <img src="https://img.shields.io/badge/Email-dottoleao%40gmail.com-2dbd82?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0d0b" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/lorenzo-le%C3%A3o-dotto">
-  <img src="https://img.shields.io/badge/Linkedin-DottoLeao-2dbd82?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c0d0b" alt="Linkedin"/>
+<a href="https://github.com/DottoLeao">
+  <img src="https://img.shields.io/badge/GitHub-DottoLeao-2dbd82?style=for-the-badge&logo=github&logoColor=white&labelColor=0c0d0b" alt="GitHub"/>
 </a>
 
 </div>
