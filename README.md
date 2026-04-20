@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0c0d0b,50:141512,100:2dbd82&height=260&section=header&text=Dotto&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Data%20Scientist&descAlignY=58&descSize=18&descColor=2dbd82)
+<img src="https://raw.githubusercontent.com/DottoLeao/DottoLeao/main/hero-banner.svg" alt="Dotto · Full-Stack Developer & Data Scientist" width="100%"/>
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=2DBD82&center=true&vCenter=true&width=700&lines=Building+SaaS+products+from+scratch;Construindo+SaaS+do+zero;S%C3%A3o+Borja%2C+RS+%E2%86%92+Gold+Coast%2C+AU+%E2%80%A2+June+2026;%22A+tecnologia+%C3%A9+a+magia+da+realidade.%22)](https://git.io/typing-svg)
@@ -235,7 +235,7 @@ _"A tecnologia é a magia da realidade."_
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2dbd82,50:141512,100:0c0d0b&height=120&section=footer)
+![Footer](https://raw.githubusercontent.com/DottoLeao/DottoLeao/main/footer-wave.svg)
 
 <sub>👁  <a href="https://visitcount.itsvg.in/api?id=DottoLeao&label=Profile%20Views&color=0&icon=0&pretty=true">Profile views</a>  ·  README crafted with ☕ &amp; 🧉</sub>
 
