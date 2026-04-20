@@ -214,8 +214,8 @@ I build products that solve real problems, not pretty decks. If it can be automa
 <a href="mailto:dottoleao@gmail.com">
   <img src="https://img.shields.io/badge/Email-dottoleao%40gmail.com-2dbd82?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0d0b" alt="Email"/>
 </a>
-<a href="https://github.com/DottoLeao">
-  <img src="https://img.shields.io/badge/GitHub-DottoLeao-2dbd82?style=for-the-badge&logo=github&logoColor=white&labelColor=0c0d0b" alt="GitHub"/>
+<a href="https://linkedin.com/in/lorenzo-le%C3%A3o-dotto">
+  <img src="https://img.shields.io/badge/Linkedin-DottoLeao-2dbd82?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c0d0b" alt="Linkedin"/>
 </a>
 
 </div>
