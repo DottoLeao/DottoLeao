@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/DottoLeao/DottoLeao/main/hero-banner.svg" alt="Dotto · Full-Stack Developer & Data Scientist" width="100%"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=2DBD82&center=true&vCenter=true&width=700&lines=Building+SaaS+products+from+scratch;Construindo+SaaS+do+zero;S%C3%A3o+Borja%2C+RS+%E2%86%92+Gold+Coast%2C+AU+%E2%80%A2+June+2026;%22A+tecnologia+%C3%A9+a+magia+da+realidade.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=2DBD82&center=true&vCenter=true&width=700&lines=Building+SaaS+products+from+scratch;Construindo+SaaS+do+zero;S%C3%A3o+Borja%2C+RS+%E2%86%92+Gold+Coast%2C+AU+%E2%80%A2+June+2026;%22Technology+is+the+magic+of+reality.%22)](https://git.io/typing-svg)
 
 <br/>
 
