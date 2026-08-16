@@ -7,12 +7,12 @@
 <img src="https://raw.githubusercontent.com/DottoLeao/DottoLeao/main/hero-banner.svg" alt="Dotto · Full-Stack Developer & Data Scientist" width="100%"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=2DBD82&center=true&vCenter=true&width=700&lines=Building+SaaS+products+from+scratch;Construindo+SaaS+do+zero;S%C3%A3o+Borja%2C+RS+%E2%86%92+Gold+Coast%2C+AU+%E2%80%A2+June+2026;%22Technology+is+the+magic+of+reality.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=2DBD82&center=true&vCenter=true&width=700&lines=Building+SaaS+products+from+scratch;Construindo+SaaS+do+zero;Based+in+Brisbane%2C+QLD+%E2%80%A2+Australia;%22Technology+is+the+magic+of+reality.%22)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://img.shields.io/badge/Based_in-S%C3%A3o_Borja,_RS_%F0%9F%87%A7%F0%9F%87%B7-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Based in"/>
-<img src="https://img.shields.io/badge/Relocating-Gold_Coast,_QLD_%F0%9F%87%A6%F0%9F%87%BA-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Relocating"/>
+<img src="https://img.shields.io/badge/Based_in-Brisbane,_QLD_%F0%9F%87%A6%F0%9F%87%BA-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Based in"/>
+<img src="https://img.shields.io/badge/Available-24h%2Fweek_%E2%80%A2_AEST-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Availability"/>
 <img src="https://img.shields.io/badge/Open_to-Remote_Worldwide-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Remote"/>
 
 </div>
@@ -39,11 +39,11 @@
 
 Dev full-stack e cientista de dados, brasileiro, sulista raiz. Construo SaaS de ponta a ponta — do PRD ao deploy — com um mix saudável de código, IA e cafezinho.
 
-Hoje base em **São Borja/RS**, mas em **junho de 2026** faço as malas pra **Gold Coast, Austrália**, pra levar meu trampo pro cenário global.
+Base em **Brisbane/QLD, Austrália**. Direito de trabalho no visto, disponível em AEST.
 
 Gosto de construir produto que resolve problema de verdade, não deck bonito. Se dá pra automatizar, automatiza; se dá pra testar, testa; se dá pra publicar, publica.
 
-**Aberto a:** remote worldwide · relocation · contratos · co-founder opportunities.
+**Aberto a:** contratos · part-time · remote · co-founder opportunities.
 
 </td>
 <td width="50%" valign="top">
@@ -52,11 +52,11 @@ Gosto de construir produto que resolve problema de verdade, não deck bonito. Se
 
 Full-stack dev and data scientist from **Southern Brazil**. I build SaaS products end-to-end — from PRD to production — with a healthy mix of code, AI, and stubbornness.
 
-Currently based in **São Borja, Brazil**, but relocating to the **Gold Coast, Australia** in **June 2026** to take my craft global.
+Based in **Brisbane, QLD, Australia**, with work rights in place and available across AEST.
 
 I build products that solve real problems, not pretty decks. If it can be automated, I automate it. If it can be shipped, I ship it.
 
-**Open to:** remote worldwide · relocation · contract work · co-founder opportunities.
+**Open to:** contract · part-time · remote · co-founder opportunities.
 
 </td>
 </tr>
@@ -139,7 +139,7 @@ I build products that solve real problems, not pretty decks. If it can be automa
 
 <div align="center">
 
-### 〈  currently building  〉
+### 〈  selected work  〉
 
 </div>
 
@@ -147,15 +147,16 @@ I build products that solve real problems, not pretty decks. If it can be automa
 <tr>
 <td width="100%">
 
-### 🎉 [rolezin](https://github.com/DottoLeao/rolezin) — the social map of Brazilian nightlife
+### 🏦 [FinRadar](https://github.com/DottoLeao/finradar) — bank statements in, spending picture out
 
-> **🇧🇷** Descubra o que vai rolar essa semana na sua cidade, veja quem da sua bolha vai estar lá, e garanta seu lugar em 2 toques.
+> **🇧🇷** Sobe o CSV de qualquer banco e vê pra onde o dinheiro foi. Cada banco exporta diferente, então o parser detecta o formato e despacha pra um adapter — banco novo é um arquivo novo, não um remendo no pipeline. Categorização por regras primeiro; o classificador opcional roda **inteiro no browser** via transformers.js. Zero chamada de IA na nuvem, zero custo por requisição.
 >
-> **🇦🇺** Discover what's on this week, see who from your circle is going, and lock your spot in two taps.
+> **🇦🇺** Upload any bank's statement CSV and see where the money went. Every bank exports differently, so the parser detects the format and dispatches to an adapter — a new bank is a new file, not a patch to the pipeline. Rules-first categorisation, with an optional classifier running **entirely in the browser** via transformers.js. No cloud AI calls, no per-request cost.
 
-**Stack:** `React` · `Vite` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
+**Stack:** `Next.js` · `React` · `TypeScript` · `Supabase` · `transformers.js` · `Tailwind`
 
-[![Repo](https://img.shields.io/badge/→_View_repo-2dbd82?style=for-the-badge&labelColor=0c0d0b)](https://github.com/DottoLeao/rolezin)
+[![Repo](https://img.shields.io/badge/→_View_repo-2dbd82?style=for-the-badge&labelColor=0c0d0b)](https://github.com/DottoLeao/finradar)
+[![Live](https://img.shields.io/badge/→_Live_demo-0c0d0b?style=for-the-badge&labelColor=2dbd82)](https://finradar-zeta.vercel.app)
 
 </td>
 </tr>
