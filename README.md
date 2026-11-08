@@ -9,13 +9,13 @@
 
 ### 🇬🇧 Hi, I'm Lorenzo
 
-Full-stack developer from Southern Brazil, living on the Gold Coast, Australia. At **Sirtec**, an electricity distribution contractor with 4,000+ employees, I went from intern to Full Stack Developer in about 14 months and built **Helix**, an offline-first operations app used by **~500 field workers** (React, Next.js, TypeScript, Node.js, Supabase).
+Full-stack developer from Southern Brazil, living on the Gold Coast, Australia. At **Sirtec**, an electricity distribution contractor with 4,000+ employees, I went from intern to Full Stack Developer in about 14 months. I started **Helix** and worked across the whole app: an offline-first operations app used by **~500 field workers** (React, Next.js, TypeScript, Node.js, Supabase).
 
 I care about tests, CI/CD and writing decisions down, and I use AI tools every day while reviewing what they produce.
 
 ### 🇧🇷 Oi, sou o Lorenzo
 
-Dev full stack, gaúcho, morando em Gold Coast, na Austrália. Na **Sirtec** (distribuidora de energia, 4.000+ funcionários) fui de estagiário a Desenvolvedor Full Stack em cerca de 14 meses e construí o **Helix**, app offline-first usado por **~500 profissionais de campo**. Aberto a vagas **100% remotas**.
+Dev full stack, gaúcho, morando em Gold Coast, na Austrália. Na **Sirtec** (distribuidora de energia, 4.000+ funcionários) fui de estagiário a Desenvolvedor Full Stack em cerca de 14 meses. Iniciei o **Helix** e trabalhei no app inteiro: um app offline-first usado por **~500 profissionais de campo**. Aberto a vagas **100% remotas**.
 
 ---
 
