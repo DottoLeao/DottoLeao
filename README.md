@@ -1,246 +1,67 @@
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                            HERO BANNER                                     -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DottoLeao/DottoLeao/main/hero-banner.svg" alt="Dotto · Full-Stack Developer & Data Scientist" width="100%"/>
+<img src="https://raw.githubusercontent.com/DottoLeao/DottoLeao/main/hero-banner.svg" alt="Lorenzo Leão Dotto · Full-Stack Developer" width="100%"/>
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=2DBD82&center=true&vCenter=true&width=700&lines=Building+SaaS+products+from+scratch;Construindo+SaaS+do+zero;Based+in+Brisbane%2C+QLD+%E2%80%A2+Australia;%22Technology+is+the+magic+of+reality.%22)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Based_in-Brisbane,_QLD_%F0%9F%87%A6%F0%9F%87%BA-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Based in"/>
-<img src="https://img.shields.io/badge/Available-24h%2Fweek_%E2%80%A2_AEST-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Availability"/>
-<img src="https://img.shields.io/badge/Open_to-Remote_Worldwide-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Remote"/>
+<img src="https://img.shields.io/badge/Based_in-Gold_Coast,_QLD_🇦🇺-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Based in Gold Coast"/>
+<img src="https://img.shields.io/badge/Open_to-Remote_(Brazil_%2F_Australia)-2dbd82?style=flat-square&labelColor=0c0d0b" alt="Open to remote"/>
 
 </div>
 
-<br/>
+### 🇬🇧 Hi, I'm Lorenzo
 
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                              WHOAMI                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
+Full-stack developer from Southern Brazil, living on the Gold Coast, Australia. At **Sirtec**, an electricity distribution contractor with 4,000+ employees, I went from intern to Full Stack Developer in about 14 months and built **Helix**, an offline-first operations app used by **~500 field workers** (React, Next.js, TypeScript, Node.js, Supabase).
 
-<div align="center">
+I care about tests, CI/CD and writing decisions down, and I use AI tools every day while reviewing what they produce.
 
-<img src="https://raw.githubusercontent.com/DottoLeao/DottoLeao/main/hero-terminal.svg" alt="terminal boot sequence" width="100%"/>
+### 🇧🇷 Oi, sou o Lorenzo
 
-### 〈  whoami  〉
+Dev full stack, gaúcho, morando em Gold Coast, na Austrália. Na **Sirtec** (distribuidora de energia, 4.000+ funcionários) fui de estagiário a Desenvolvedor Full Stack em cerca de 14 meses e construí o **Helix**, app offline-first usado por **~500 profissionais de campo**. Aberto a vagas **100% remotas**.
 
-</div>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Stack
 
-### 🇧🇷 Fala, sou o Dotto
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-Dev full-stack e cientista de dados, brasileiro, sulista raiz. Construo SaaS de ponta a ponta — do PRD ao deploy — com um mix saudável de código, IA e cafezinho.
+---
 
-Base em **Brisbane/QLD, Austrália**. Direito de trabalho no visto, disponível em AEST.
+### Selected work
 
-Gosto de construir produto que resolve problema de verdade, não deck bonito. Se dá pra automatizar, automatiza; se dá pra testar, testa; se dá pra publicar, publica.
+**[Lembra](https://github.com/DottoLeao/lembra)** — offline spaced-repetition flashcard app (PWA + Android).
+React 19 + TypeScript, FSRS scheduling, IndexedDB; a pure domain layer separated from the UI, **110 unit tests (Vitest)** plus end-to-end tests (Playwright); GitHub Actions builds the Android app. · [Live](https://lembra-nine.vercel.app)
 
-**Aberto a:** contratos · part-time · remote · co-founder opportunities.
+**Helix** (private, built at Sirtec) — field-team operations app used by ~500 field workers. Offline-first: start and end times are stored with no signal and synced when the connection returns; managers see each activity in real time; integrated the teams' safety-camera software.
 
-</td>
-<td width="50%" valign="top">
+**Plan Whisperer** — 🏆 **Winner, Challenge 8, Gold Coast Open Data Challenge 2026** (team of 6). AI assistant that uses the city's open data and planning rules to answer what residents can build, citing sources. I worked on the backend (LightRAG service + chat API) and deployment.
 
-### 🇦🇺 Hey, I'm Dotto
+**[FinRadar](https://github.com/DottoLeao/finradar)** — upload any bank's statement CSV and see where the money went. Adapter-based parsers per bank, rules-first categorisation and an optional classifier running entirely in the browser (transformers.js). · [Live](https://finradar-zeta.vercel.app)
 
-Full-stack dev and data scientist from **Southern Brazil**. I build SaaS products end-to-end — from PRD to production — with a healthy mix of code, AI, and stubbornness.
+---
 
-Based in **Brisbane, QLD, Australia**, with work rights in place and available across AEST.
+### Contact
 
-I build products that solve real problems, not pretty decks. If it can be automated, I automate it. If it can be shipped, I ship it.
-
-**Open to:** contract · part-time · remote · co-founder opportunities.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                              TECH STACK                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 〈  tech stack  〉
-
-</div>
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-#### ⌨︎ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-#### ◈ Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-#### ⚙ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-#### ⛁ Database & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-#### ✴ AI & Automation
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-#### ⚒ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                          NOW BUILDING                                      -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lorenzodotto-2dbd82?style=flat-square&logo=linkedin&logoColor=white&labelColor=0c0d0b)](https://www.linkedin.com/in/lorenzodotto)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lorenzodotto.com.br-2dbd82?style=flat-square&labelColor=0c0d0b)](https://lorenzodotto.com.br)
+[![Email](https://img.shields.io/badge/Email-dottodeveloper%40gmail.com-2dbd82?style=flat-square&logo=gmail&logoColor=white&labelColor=0c0d0b)](mailto:dottodeveloper@gmail.com)
 
 <div align="center">
-
-### 〈  selected work  〉
-
-</div>
-
-<table>
-<tr>
-<td width="100%">
-
-### 🏦 [FinRadar](https://github.com/DottoLeao/finradar) — bank statements in, spending picture out
-
-> **🇧🇷** Sobe o CSV de qualquer banco e vê pra onde o dinheiro foi. Cada banco exporta diferente, então o parser detecta o formato e despacha pra um adapter — banco novo é um arquivo novo, não um remendo no pipeline. Categorização por regras primeiro; o classificador opcional roda **inteiro no browser** via transformers.js. Zero chamada de IA na nuvem, zero custo por requisição.
->
-> **🇦🇺** Upload any bank's statement CSV and see where the money went. Every bank exports differently, so the parser detects the format and dispatches to an adapter — a new bank is a new file, not a patch to the pipeline. Rules-first categorisation, with an optional classifier running **entirely in the browser** via transformers.js. No cloud AI calls, no per-request cost.
-
-**Stack:** `Next.js` · `React` · `TypeScript` · `Supabase` · `transformers.js` · `Tailwind`
-
-[![Repo](https://img.shields.io/badge/→_View_repo-2dbd82?style=for-the-badge&labelColor=0c0d0b)](https://github.com/DottoLeao/finradar)
-[![Live](https://img.shields.io/badge/→_Live_demo-0c0d0b?style=for-the-badge&labelColor=2dbd82)](https://finradar-zeta.vercel.app)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                            GITHUB STATS                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 〈  github stats  〉
-
-<br/>
-
-<a href="https://github.com/DottoLeao">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DottoLeao&show_icons=true&count_private=true&hide_border=true&bg_color=0c0d0b&title_color=2dbd82&text_color=a8a89f&icon_color=2dbd82" alt="Dotto's GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DottoLeao&layout=compact&hide_border=true&bg_color=0c0d0b&title_color=2dbd82&text_color=a8a89f&langs_count=8" alt="Top languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DottoLeao&hide_border=true&background=0c0d0b&stroke=2a2b27&ring=2dbd82&fire=2dbd82&currStreakLabel=2dbd82&sideLabels=a8a89f&currStreakNum=ffffff&sideNums=ffffff&dates=6e6c65" alt="Streak" height="180"/>
-
-<br/><br/>
-
-<!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DottoLeao/DottoLeao/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DottoLeao/DottoLeao/output/snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/DottoLeao/DottoLeao/output/snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/DottoLeao/DottoLeao/output/snake.svg"/>
 </picture>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                             CONNECT                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 〈  let's connect  〉
-
-**🇧🇷** Se você é recrutador, founder, ou só curioso — fica à vontade.  
-**🇦🇺** Recruiter, founder, or just curious — feel free to reach out.
-
-<br/>
-
-<a href="https://linkedin.com/in/lorenzo-le%C3%A3o-dotto">
-  <img src="https://img.shields.io/badge/LinkedIn-dotto--leao-2dbd82?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c0d0b" alt="LinkedIn"/>
-</a>
-<a href="https://lorenzodotto.com.br">
-  <img src="https://img.shields.io/badge/Portfolio-lorenzodotto.com.br-2dbd82?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0c0d0b" alt="Portfolio"/>
-</a>
-<a href="mailto:dottodeveloper@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dottodeveloper%40gmail.com-2dbd82?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0d0b" alt="Email"/>
-</a>
-<a href="https://github.com/DottoLeao">
-  <img src="https://img.shields.io/badge/GitHub-DottoLeao-2dbd82?style=for-the-badge&logo=github&logoColor=white&labelColor=0c0d0b" alt="GitHub"/>
-</a>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                              EPIGRAPH                                      -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-_"A tecnologia é a magia da realidade."_  
-— Dotto
-
-<br/>
-
-![Footer](https://raw.githubusercontent.com/DottoLeao/DottoLeao/main/footer-wave.svg)
-
-<sub>👁  <a href="https://visitcount.itsvg.in/api?id=DottoLeao&label=Profile%20Views&color=0&icon=0&pretty=true">Profile views</a>  ·  README crafted with ☕ &amp; 🧉</sub>
-
 </div>
