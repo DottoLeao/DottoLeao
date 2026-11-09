@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 210" width="580" height="210" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" role="img" aria-label="Plan Whisperer: AI answers what residents can build, citing Gold Coast open data">
+  <defs><linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><radialGradient id="bg" cx="85%" cy="0%" r="90%"><stop offset="0" stop-color="#063a1f"/><stop offset="1" stop-color="#010805"/></radialGradient></defs>
+  <rect x=".5" y=".5" width="579" height="209" rx="20" fill="url(#bg)" stroke="#00ff88" stroke-opacity=".3"/>
+  <rect x="1.5" y="1.5" width="577" height="84" rx="19" fill="url(#shine)"/>
+  <text x="28" y="44" font-size="12" letter-spacing="1.5" fill="#00ff88" fill-opacity=".85">🏆 WINNER · CHALLENGE 8</text>
+  <text x="28" y="84" font-size="30" font-weight="800" fill="#fff">Plan Whisperer</text>
+  <text x="28" y="116" font-size="14.5" fill="#bff3d6">AI answers what residents can build,</text>
+  <text x="28" y="138" font-size="14.5" fill="#bff3d6">citing Gold Coast open data</text>
+  <g transform="translate(476,28)"><rect x="0" y="0" width="72" height="72" rx="16" fill="#02120a" fill-opacity=".72" stroke="#00ff88" stroke-opacity=".28"/>
+   <rect x="1" y="1" width="70" height="32.4" rx="15" fill="url(#shine)"/><g transform="translate(16,16) scale(1.67)" fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/></g></g>
+  <rect x="28" y="160" width="84.4" height="26" rx="13" fill="#00ff88" fill-opacity=".08" stroke="#00ff88" stroke-opacity=".35"/><text x="70.2" y="177.5" font-size="13" fill="#00ff88" text-anchor="middle">LightRAG</text><rect x="120.4" y="160" width="92.2" height="26" rx="13" fill="#00ff88" fill-opacity=".08" stroke="#00ff88" stroke-opacity=".35"/><text x="166.5" y="177.5" font-size="13" fill="#00ff88" text-anchor="middle">Open data</text><rect x="220.60000000000002" y="160" width="37.6" height="26" rx="13" fill="#00ff88" fill-opacity=".08" stroke="#00ff88" stroke-opacity=".35"/><text x="239.40000000000003" y="177.5" font-size="13" fill="#00ff88" text-anchor="middle">AI</text>
+</svg>
